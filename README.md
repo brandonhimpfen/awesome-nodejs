@@ -101,6 +101,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Day.js](https://day.js.org/)** - A lightweight alternative to Moment.js.
 - **[Async](https://caolan.github.io/async/)** - Utility functions for asynchronous JavaScript.
 - **[dotenv](https://github.com/motdotla/dotenv)** - A library for managing environment variables.
+- **[NextJSON](https://nextjson.com/)** - A free online nested JSON parser, formatter and toolbox.
   
 ## Educational Resources
 
